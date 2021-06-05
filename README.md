@@ -1,2 +1,2 @@
 # parking
-Parking Application backend
+Parking Application
